@@ -1,0 +1,10 @@
+
+# Swagger configurations
+swaggerBaseUrl: http://localhost:8081
+
+server:
+  port: 8081
+
+database:
+  collections:
+      parking: Parkings
